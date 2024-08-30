@@ -12,6 +12,15 @@ Ilcome to the Scalable Chatbot Systems project. This framework is designed to fa
 
 The architecture and chosen technologies make this framework particularly suitable for commercialization. Whether you're a startup looking to build a MVP or an enterprise seeking to integrate advanced chatbot capabilities, this system provides a solid, scalable foundation.
 
+### The following features have been kept in mind while developing the project
+
+1. Using Poetry for Project managmeent which provides an easy method for deployment of the project anywhere, with py-project.toml file
+2. Pylint has been used to ensure that best practices have been followed during development and a score of 8+ is maintained
+
+## Technical Cnnfigurations
+
+The System be part of a larger application. It will be hosted as docker container for intitial development. 
+
 ## 🚀 Quick Start
 
 To get started with our system, follow these steps:
