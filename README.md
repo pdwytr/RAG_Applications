@@ -1,6 +1,6 @@
 # 🤖 Scalable RAG Chatbot Systems
 
-Ilcome to the Scalable Chatbot Systems project. This framework is designed to facilitate the development of highly intelligent, production-ready chatbot systems.
+Ilcome to the Scalable Chatbot Systems project. This framework is designed to facilitate the development of highly intelligent, deployable chatbot systems.
 
 ## 🌟 Key Features
 
